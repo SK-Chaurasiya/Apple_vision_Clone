@@ -4,7 +4,7 @@
 
 Hire me on Fiverr:- https://www.fiverr.com/s/BabRzd
 Video Effect:- https://vimeo.com/user194359065
-My & AI Art Work's:- https://www.deviantart.com/whitehatdesigner
+My & AI Art Work:- https://www.deviantart.com/whitehatdesigner
 
 Creating a complete "Apple Vision Clone" is beyond the scope of a simple response, as it would require a substantial amount of work involving various technologies, including computer vision, machine learning, and web development. However, I can provide you with an outline of the steps and technologies involved in creating a basic version of an "Apple Vision Clone":
 
@@ -13,19 +13,19 @@ Creating a complete "Apple Vision Clone" is beyond the scope of a simple respons
    - Identify objects and scenes in images, which would be the core functionality of the "Apple Vision" feature.
 
 2. **Backend Development:**
-   - Create a backend server to handle incoming requests from the frontend.
-   - The backend will process the images using the computer vision and machine learning models and return the results to the frontend.
+   - Create a backend server to handle incoming requests from the front end.
+   - The backend will process the images using the computer vision and machine learning models and return the results to the front.
 
 3. **Frontend Development:**
    - Build a user interface (UI) for users to interact with the "Apple Vision Clone."
-   - Users should be able to upload images, and the frontend should communicate with the backend to process the images and display the results.
+   - Users should be able to upload images, and the front end should communicate with the backend to process the images and display the results.
 
 4. **Image Upload and Processing:**
    - Implement a mechanism to allow users to upload images from their devices.
    - Send the uploaded images to the backend for processing using APIs.
 
 5. **Result Display:**
-   - Display the results of the image recognition and object detection on the frontend.
+   - Display the results of the image recognition and object detection on the front end.
    - Users should be able to see what objects or scenes have been identified in their uploaded images.
 
 6. **Error Handling and Validation:**
@@ -41,9 +41,9 @@ Remember that this is a simplified outline, and creating a full-fledged "Apple V
 
 If you want to pursue this project, consider breaking it down into smaller tasks and learning the necessary technologies step by step. There are numerous tutorials, courses, and documentation available online for each of these areas. Good luck with your project!
 
+Demo:- https://sk-chaurasiya.github.io/Apple_vision_Clone/
 
-
-Don't Forget to follow me....
+Don't forget to follow me...
 Thank You For coming to my work.
 
 

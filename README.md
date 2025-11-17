@@ -4,10 +4,6 @@
 
 Hire me on Fiverr:- https://www.fiverr.com/s/BabRzd
 
-Video Effect:- https://vimeo.com/user194359065
-
-My & AI Art Work:- https://www.deviantart.com/whitehatdesigner
-
 Creating a complete "Apple Vision Clone" is beyond the scope of a simple response, as it would require a substantial amount of work involving various technologies, including computer vision, machine learning, and web development. However, I can provide you with an outline of the steps and technologies involved in creating a basic version of an "Apple Vision Clone":
 
 1. **Computer Vision and Machine Learning:**
